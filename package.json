@@ -1,12 +1,12 @@
 {
-  "name": "hackers-live-coin",
+  "name": "neoadam",
   "version": "1.0.0",
-  "description": "Hackers' Live Coin (ERC20)",
+  "description": "NeoAdam (ERC20)",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hackers-live/hackers-live-coin.git"
+    "url": "git+https://github.com/neoadamnadm/neoadam.git"
   },
   "keywords": [
     "blockchain",
@@ -14,12 +14,12 @@
     "erc20",
     "cryptocurrency"
   ],
-  "author": "Shun (shunsuke.hondo@gmail.com)",
-  "license": "MIT",
+  "author": "",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/hackers-live/hackers-live-coin/issues"
+    "url": "https://github.com/neoadamnadm/neoadam/issues"
   },
-  "homepage": "https://github.com/hackers-live/hackers-live-coin#readme",
+  "homepage": "https://github.com/neoadamnadm/neoadam#readme",
   "dependencies": {
     "openzeppelin-solidity": "git+https://github.com/shunsukehondo/openzeppelin-solidity.git",
     "truffle-hdwallet-provider": "^1.0.5"
